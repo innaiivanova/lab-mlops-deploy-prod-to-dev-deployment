@@ -1,4 +1,4 @@
-# Function
+# This is an awesome function!!!
 import math
 
 
